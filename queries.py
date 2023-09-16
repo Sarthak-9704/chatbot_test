@@ -1,0 +1,5 @@
+dataset = {"hello" : "hi" ,
+            "name": "test_name",
+            "password" : "In case you want change your password click on Forgot password. If no SMS is received on your registered mobile number after successful registration is done, you can click Login with OTP (http://pgrkam.com/signinwith-otp) to login into your account using registered number and the OTP" ,
+            "login" : " Select the user as Jobseeker and fill the registration form on the portal. On click of Submit button, an SMS with username & password along with OTP will be sent to your registered mobile number. User will have to enter the OTP in the input box provided for account verification.\nAfter registration, to sign in (link http://pgrkam.com/signin ), enter username and password and click on Log In button. ",
+            }
